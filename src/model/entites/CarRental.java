@@ -1,4 +1,4 @@
-package Ex1.model.entites;
+package model.entites;
 
 import java.time.LocalDateTime;
 

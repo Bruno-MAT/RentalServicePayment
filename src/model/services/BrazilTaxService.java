@@ -1,4 +1,4 @@
-package Ex1.model.services;
+package model.services;
 
 public class BrazilTaxService {
 
